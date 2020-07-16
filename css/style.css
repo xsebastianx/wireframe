@@ -1,0 +1,20 @@
+.row {
+    text-align: center;
+}
+
+#first{
+    background-image: url("assets/_DSC3300.jpg");
+    /* background-color: blueviolet; */
+    padding: 300px
+    
+}
+
+#second{
+    background-color: wheat;
+    padding: 300px
+}
+
+#third{
+    background-color: khaki;
+    padding: 300px
+}
